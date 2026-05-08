@@ -1,0 +1,13 @@
+POST https://api.restful-api.dev/objects HTTP/1.1
+Content-Type: application/json
+
+{
+   "name": "Apple MacBook Pro 16",
+   "data": {
+      "year": 2026,
+      "price": 1800,
+      "CPU model": "Intel Core i9",
+      "Hard disk size": "1 TB"
+   }
+}
+
